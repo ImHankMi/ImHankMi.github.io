@@ -1,10 +1,10 @@
-# HankMi
+# HankMi官网-欢迎使用抬腕系列应用
 欢迎来到Hankmi的神秘小屋，或使用抬腕系列应用！  
 HankMi，哔哩哔哩不知名数码UP主，酷安认证抬腕系列开发者，Android Wear开发者。
 
 
 ## 公告栏
-我们正在完成网站升级，这可能需要一段时间。在此期间，部分网站服务将受到影响，你可以在我们升级网站的同时进行访问浏览，也可以先暂时访问[以前的备份网站](https://hankmi.mysxl.cn/)或跳转[HankMi社区](https://support.hankmi.com/)。
+暂无公告
 
 
 ## 应用
@@ -37,8 +37,14 @@ HankMi，哔哩哔哩不知名数码UP主，酷安认证抬腕系列开发者，
 ## 社区
 
 ### 下载APP
+Hankmi社区手机应用提供更全面的功能  
 [前往应用商店](apps.md)
 ### 社区网页版
-[看帖](https://support.qq.com/products/350783)  
-[支持](https://support.qq.com/products/350783/faqs-more/)  
+提交建议、bug反馈、日常摸鱼聊天，请前往：  
+[看帖和发帖](https://support.qq.com/products/350783)  
+  
+常见问题、疑难解答、抬腕开放平台、资源下载，请前往：  
+[抬腕支持](https://support.qq.com/products/350783/faqs-more/)  
+  
+新资讯、热门活动，请前往：  
 [博客](https://support.qq.com/products/350783/blog-archive)
