@@ -40,7 +40,7 @@
 [HankMi视频-视频做笔记](http://www.coolapk.com/apk/296716)  
 `Android 6.0+`  
 
-[HankMi社区](http://www.coolapk.com/apk/296716)  
+[HankMi社区](https://hankmi.lanzouw.com/b0cfepbgj)  
 `网盘密码：1234`
 `Android 6.0+`  
 
