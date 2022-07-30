@@ -1,8 +1,3 @@
-# Hello，你好
-欢迎访问HankMi官方网站
-
-***
-
 # 公告栏
 公告栏 is empty
 
