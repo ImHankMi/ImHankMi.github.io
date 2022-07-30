@@ -16,16 +16,8 @@
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <header class="page-header" role="banner" color="#FFFFFF">
-      <h1 class="project-name"><a href="https://www.hankmi.com">HankMi官方网站</a></h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-      {% endif %}
-      {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
+    <header class="page-header" role="banner">
+      <h1 class="project-name"><a href="https://www.hankmi.com"  color="#FFFFFF">HankMi官方网站</a></h1>
     </header>
 
     <main id="content" class="main-content" role="main">
