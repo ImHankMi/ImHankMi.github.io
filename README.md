@@ -32,17 +32,5 @@
 
 ***
 
-# 社区
-
-## 下载APP
-Hankmi社区手机应用提供更全面的功能  
-[前往应用商店](download/apps.md)
-## 社区网页版
-提交建议、bug反馈、日常摸鱼聊天，请前往：  
-[看帖和发帖](https://support.qq.com/products/350783)  
-  
-常见问题、疑难解答、抬腕开放平台、资源下载，请前往：  
-[抬腕支持](https://support.qq.com/products/350783/faqs-more/)  
-  
-新资讯、热门活动，请前往：  
-[博客](https://support.qq.com/products/350783/blog-archive)
+# HankMi社区
+[下载APP或前往网页版](download/community.md)
