@@ -44,7 +44,7 @@
 [HankMi视频-视频做笔记](http://www.coolapk.com/apk/296716)  
 `Android 6.0+`  
 
-[HankMi社区](download/community.md)  
+[HankMi社区](community.md)  
 `提供网页版`
 `Android 6.0+`  
 
