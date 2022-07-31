@@ -41,7 +41,7 @@
 ***
 
 ## 手机应用
-[HankMi视频-视频做笔记](http://www.coolapk.com/apk/296716)  
+[Colion视频-视频做笔记](mobilemedia.md)  
 `Android 6.0+`  
 
 [HankMi社区](community.md)  
