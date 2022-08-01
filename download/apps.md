@@ -15,7 +15,7 @@
 `方形屏幕`
 `兼容WearOS`   
   
-[抬腕看图](http://www.coolapk.com/apk/280757)  
+[抬腕看图](weargallery.md)  
 `方形屏幕`
 `兼容WearOS`  
   
@@ -37,6 +37,10 @@
 `在唯趣应用商店下载`
 `自适应屏幕`
 `兼容WearOS` 
+
+### 需要帮助吗
+[如何将apk安装到手表](install.md)  
+[从第三方渠道获取apk](https://www.hankmi.com/support/to3rd.html)
 
 ***
 
