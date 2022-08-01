@@ -30,12 +30,11 @@
 `方形屏幕`
 `兼容WearOS`     
   
-[多功能键增强](http://www.coolapk.com/apk/287304)  
+[多功能键增强](wearlauncher.md)  
 `小米手表`  
 
 [抬腕内测](https://etralab.top)  
-`在唯趣应用商店下载`
-`自适应屏幕`
+`方形屏幕`
 `兼容WearOS` 
 
 ### 需要帮助吗
