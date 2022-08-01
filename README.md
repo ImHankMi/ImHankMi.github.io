@@ -31,6 +31,7 @@
 
 ***
 
-# HankMi社区
+# Colion社区
 简单纯粹的智能手表论坛，抬腕官方反馈平台  
+在Colion社区获取更多支持服务：常见问题解答、插件商店、博客…  
 [下载APP或前往网页版](download/community.md)
