@@ -23,7 +23,7 @@
 `方形屏幕`
 `兼容WearOS`   
   
-[抬腕浏览器](http://www.coolapk.com/apk/290137)  
+[抬腕浏览器](wearbrowser.md)  
 `方形屏幕`  
   
 [抬腕翻译](http://www.coolapk.com/apk/281763)  
