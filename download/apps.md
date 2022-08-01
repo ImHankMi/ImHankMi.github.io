@@ -33,7 +33,7 @@
 [多功能键增强](wearlauncher.md)  
 `小米手表`  
 
-[抬腕内测](https://etralab.top)  
+[抬腕内测](wearbeta.md)  
 `方形屏幕`
 `兼容WearOS` 
 
@@ -44,10 +44,10 @@
 ***
 
 ## 手机应用
-[Colion视频-视频做笔记](mobilemedia.md)  
+[Colion视频](mobilemedia.md)  
 `Android 6.0+`  
 
-[HankMi社区](community.md)  
+[Colion社区-原HankMi社区](community.md)  
 `提供网页版`
 `Android 6.0+`  
 
