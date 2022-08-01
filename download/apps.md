@@ -3,7 +3,7 @@
 ***
 
 ## 可穿戴应用
-[抬腕听歌](http://www.coolapk.com/apk/280691)  
+[抬腕听歌](wearmusic.md)  
 `自适应屏幕`
 `兼容WearOS`  
   
