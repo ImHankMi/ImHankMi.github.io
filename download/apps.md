@@ -7,11 +7,11 @@
 `自适应屏幕`
 `兼容WearOS`  
   
-[抬腕笔记](http://www.coolapk.com/apk/283973)  
+[抬腕笔记](noteplus.md)  
 `自适应屏幕`
 `兼容WearOS` 
   
-[抬腕视频](http://www.coolapk.com/apk/295660)  
+[抬腕视频](wearmedia.md)  
 `方形屏幕`
 `兼容WearOS`   
   
