@@ -19,7 +19,7 @@
 `方形屏幕`
 `兼容WearOS`  
   
-[抬腕文件](http://www.coolapk.com/apk/290674)  
+[抬腕文件](wearfileexplorer.md)  
 `方形屏幕`
 `兼容WearOS`   
   
