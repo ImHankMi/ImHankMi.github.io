@@ -15,6 +15,9 @@
 ## 传输文件
 使用抬腕文件及配套的传输工具来轻松管理您的手表文件,只需要将手表和手机连接到相同Wi-Fi。  
 [获取插件（Hankmi社区提供）](https://support.qq.com/products/350783/faqs/110472)
+## 插件商店
+在Colion社区获取更多免费插件  
+[下载APP或前往网页版](download/community.md)
 
 ***
 
