@@ -4,6 +4,11 @@
 
 # 最新上架
 
+## 魔盒工具箱
+一款针对OPPO手表的多功能实用APP  
+开发者：`凯哥`  
+[点击下载](http://mystore8081.cpolar.cn/download/mhgjx14.apk) 
+
 ## 腕上搜索(方屏版)
 极致侧边栏,功能天花板  
 开发者：`zhy_code`  
