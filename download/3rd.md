@@ -2,9 +2,18 @@
 
 ***
 
-## 我们正在收集信息
-我们正在联系第三方应用开发者，将优质的应用链接到抬腕应用商店（3-rd）。  
-这可能需要一段时间，但相信这非常值得。
+# 所有应用
+
+## 腕上搜索(方屏版)
+极致侧边栏,功能天花板  
+开发者：`zhy_code`  
+[点击下载（方屏版）](https://wwm.lanzoul.com/irNJX08uke5i) `密码：a1bx`  
+[点击下载（圆屏版）](https://wwm.lanzoul.com/i4MCR08uke6j) `密码：8og5`
+
+## 轨迹返航
+记录山河,记录你  
+开发者：`zhy_code`  
+[点击下载](https://wwm.lanzoul.com/iZDXu084mjpe) `密码：gjfh`
 
 ***
 
