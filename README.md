@@ -13,6 +13,8 @@
 [直播间](https://live.bilibili.com/25463078)  
 * 错过了直播？别担心，我们提供高质量的回放：  
 [往期特别活动](live.md)
+* 在语音助手、地图导航、有声节目和更多地方听HankMi声音：  
+[前往“HankMi声音”页面](support/voice.md)
 
 ***
 
