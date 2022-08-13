@@ -4,5 +4,5 @@
 
 ***
 
-* 220812期：PVZ 1-1To3-5（暂无播放源）
+* 220812期：[PVZ 1-1 To 3-5](https://www.bilibili.com/video/BV1pd4y1K7YS/)
 * 220731期：[Asphalt8](https://www.bilibili.com/video/BV19a411Z7DQ)
