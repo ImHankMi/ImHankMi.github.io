@@ -4,7 +4,7 @@
 
 ***
 
-![images/Bilibili.PNG](images/Bilibili.PNG)
+![images/Bilibili.png](images/Bilibili.png)
 * 我们的视频，是不容错过的。数码区、日常区、音乐区都能找到那么一点：  
 [个人主页](https://space.bilibili.com/400656980)  
 * 游戏直播、新品发布、VLog实况直播，我们统一称为特别活动：  
