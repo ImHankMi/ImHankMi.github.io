@@ -1,14 +1,10 @@
 ![images/Apps.PNG](images/Apps.PNG)
-
-***
-
-# Hello，欢迎
 * 抬腕文件 V22.8.8 版本发布 [查看更新日志](support/update/fileexplorer2288.md)
 * 抬腕听歌白噪音下架通知 [详情](support/n2208082244.md)
 
 ***
 
-# 自媒体
+![images/Bilibili.PNG](images/Bilibili.PNG)
 * 我们的视频，是不容错过的。数码区、日常区、音乐区都能找到那么一点：  
 [个人主页](https://space.bilibili.com/400656980)  
 * 游戏直播、新品发布、VLog实况直播，我们统一称为特别活动：  
@@ -20,8 +16,7 @@
 
 ***
 
-# 应用程序
-
+![images/ColionV4.PNG](images/ColionV4.PNG)
 * 下载APK是玩表的开始，找到你喜欢的抬腕系列应用并使他们保持最新版本：  
 [现在就去挑选](download/apps.md)  
 * 接下来将APK安装到手表，仅需4步，轻松搞定：  
