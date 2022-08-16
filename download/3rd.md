@@ -1,4 +1,4 @@
-![IMG_3Rd](https://s2.loli.net/2022/08/16/xotGynLJYEDQfCi.png)
+![IMG_3Rd](https://s2.loli.net/2022/08/16/JDpc7Al86iELUG3.png)
 
 ***
 
