@@ -1,8 +1,7 @@
-# 抬腕应用商店
-
-***
+![IMG_WearMusic](https://s2.loli.net/2022/08/16/os9KTPaOC6GZ1Hp.png)
 
 ## 可穿戴应用
+
 [抬腕听歌](wearmusic.md)  
 `自适应屏幕`
 `兼容WearOS`  
@@ -43,7 +42,10 @@
 
 ***
 
+![IMG](https://s2.loli.net/2022/08/16/UnZNreFl9kb24mx.png)
+
 ## 手机应用
+
 [Colion视频](mobilemedia.md)  
 `Android 6.0+`  
 
