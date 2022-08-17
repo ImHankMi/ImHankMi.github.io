@@ -1,4 +1,4 @@
-![IMG_WearMusic](https://s2.loli.net/2022/08/16/os9KTPaOC6GZ1Hp.png)
+![WearMusic.PNG](https://s2.loli.net/2022/08/17/73iSxMOD2QVWrJF.png)
 
 ## 可穿戴应用
 
@@ -42,7 +42,7 @@
 
 ***
 
-![IMG](https://s2.loli.net/2022/08/16/UnZNreFl9kb24mx.png)
+![ColionVideo.PNG](https://s2.loli.net/2022/08/17/Ixto8amOE1ufJUY.png)
 
 ## 手机应用
 
