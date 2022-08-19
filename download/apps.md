@@ -5,6 +5,10 @@
 [抬腕听歌](wearmusic.md)  
 `自适应屏幕`
 `兼容WearOS`  
+
+[OmoNote（瓯默笔记）](omonote.md)  
+`方形屏幕`  
+`兼容WearOS`  
   
 [抬腕笔记](noteplus.md)  
 `自适应屏幕`
