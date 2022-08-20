@@ -1,5 +1,5 @@
 ![IMG_Welcome](https://s2.loli.net/2022/08/16/qeQYgEwurJG32fs.png)
-* 抬腕文件 V22.8.8 版本发布 [查看更新日志](support/update/fileexplorer2288.md)
+* 抬腕听歌、抬腕视频、抬腕笔记、抬腕文件、Omonote已解决在OPPO Watch 3上无法退出的问题
 * 抬腕听歌白噪音下架通知 [详情](support/n2208082244.md)
 
 ***
