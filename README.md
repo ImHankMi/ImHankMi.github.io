@@ -24,7 +24,7 @@
 * 必要时应当通过插件，给手表传输图片、视频、音乐或歌词：  
 [获取插件（Colion社区提供）](https://support.qq.com/products/350783/faqs/110472)  
 * 仍不满足，在Colion社区获取更多免费插件：  
-[了解Colion社区](download/community.md)  
+[了解Colion社区](community.md)  
 
 ## 抬腕应用商店
 * 一次浏览，收获应用多多。
