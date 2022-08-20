@@ -14,5 +14,5 @@
 ![635F0B45-43D8-44DD-8C35-D2AD30CEF4FD.png](https://s2.loli.net/2022/08/19/ex4tcMjup8PkoA2.png)
 
 ## 立即获取
-[蓝奏云网盘下载](https://hankmi.lanzouw.com/ijide09u4mkb)  
+[蓝奏云网盘下载](https://hankmi.lanzouw.com/i0t7m09vysqj)  
 [酷安网下载（推荐）](https://www.coolapk.com/apk/297843)
