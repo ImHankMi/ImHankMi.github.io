@@ -1,6 +1,6 @@
 ![IMG_Welcome](https://s2.loli.net/2022/08/16/qeQYgEwurJG32fs.png)
 * 抬腕听歌、抬腕视频、抬腕笔记、抬腕文件、Omonote已解决在OPPO Watch 3上无法退出的问题
-* 抬腕听歌白噪音下架通知 [详情](support/n2208082244.md)
+* 关于抬腕听歌被高版本安卓杀后台的问题分析 [查看详情](support/killed_WearMusic.md)
 
 ***
 
