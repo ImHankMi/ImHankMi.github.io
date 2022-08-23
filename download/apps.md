@@ -1,3 +1,5 @@
+[<img src="https://www.hankmi.com/favicon.ico" width="60" height="60" align="middle" />](https://www.hankmi.com)
+
 ![WearMusic.PNG](https://s2.loli.net/2022/08/17/73iSxMOD2QVWrJF.png)
 
 ## 可穿戴应用
