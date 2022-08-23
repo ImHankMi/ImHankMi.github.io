@@ -1,4 +1,4 @@
-# HankMi支持（中国大陆）
+# HankMi支持 (中国大陆) 官方网站
 
 ## 资讯信息
 * 抬腕听歌“白噪音、广播操、收音机”功能下架通知【[查看](support/Offline_White_noise.md)】  
