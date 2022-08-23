@@ -1,3 +1,5 @@
+[<img src="https://www.hankmi.com/favicon.ico" width="60" height="60" align="middle" />](https://www.hankmi.com)
+
 ![IMG_3Rd](https://s2.loli.net/2022/08/16/JDpc7Al86iELUG3.png)
 
 ***
