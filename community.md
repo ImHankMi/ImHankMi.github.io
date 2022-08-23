@@ -1,3 +1,5 @@
+[<img src="favicon.ico" width="60" height="60" align="middle" />](https://www.hankmi.com)
+
 # Colion社区
 为了提升用户体验，HankMi社区更名为Colion社区。  
 简单纯粹的手表论坛，抬腕官方反馈平台
