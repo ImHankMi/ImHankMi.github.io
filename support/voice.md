@@ -1,3 +1,5 @@
+[<img src="https://www.hankmi.com/favicon.ico" width="60" height="60" align="middle" />](https://www.hankmi.com)
+
 ![IMG_Voice.PNG](https://s2.loli.net/2022/08/16/7E8svPZgLhGHIjM.png)
 
 我们在多个平台发布有声内容
