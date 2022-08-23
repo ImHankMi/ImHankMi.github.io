@@ -1,3 +1,5 @@
+[<img src="https://www.hankmi.com/favicon.ico" width="60" height="60" align="middle" />](https://www.hankmi.com)
+
 # 抬腕应用授权发布平台
 你可以在以下应用商店，获取正版抬腕系列应用：  
 唯趣应用商店  
