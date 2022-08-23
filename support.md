@@ -1,3 +1,5 @@
+[<img src="favicon.ico" width="60" height="60" align="middle" />](https://www.hankmi.com)
+
 # HankMi支持 (中国大陆) 官方网站
 
 ## 资讯信息
