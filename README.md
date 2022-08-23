@@ -1,8 +1,8 @@
 ![IMG_Welcome](https://s2.loli.net/2022/08/16/qeQYgEwurJG32fs.png)
-* 抬腕听歌、视频、笔记、文件、Omonote已解决在OPPO Watch 3上无法退出的问题
-* 关于抬腕听歌被高版本安卓杀后台的问题分析【[查看详情](support/killed_WearMusic.html)】  
-  
-  [更多内容](support.md)
+* 抬腕听歌“白噪音、广播操、收音机”功能下架通知【[查看](support/Offline_White_noise.md)】  
+* 关于抬腕听歌被高版本安卓杀后台的问题分析【[查看](support/killed_WearMusic.html)】  
+* 多功能键增强激活通道关闭【[查看](support/Offline_Launcher.md)】
+* [浏览更多内容…](support.md)
 
 ***
 
