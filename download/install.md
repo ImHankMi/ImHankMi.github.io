@@ -1,3 +1,5 @@
+[<img src="https://www.hankmi.com/favicon.ico" width="60" height="60" align="middle" />](https://www.hankmi.com)
+
 # 安装抬腕系列应用
 本教程将指导你逐步完成apk的安装操作。在我们正式开始之前，请先确保你已完成以下操作：  
 1.在[抬腕应用商店](apps.md)下载了需要的安装包  
