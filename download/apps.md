@@ -1,6 +1,6 @@
 [<img src="https://www.hankmi.com/favicon.ico" width="60" height="60" align="middle" />](https://www.hankmi.com)
 
-![WearMusic.PNG](https://s2.loli.net/2022/08/17/73iSxMOD2QVWrJF.png)
+![WearMusic.PNG](https://txc.gtimg.com/data/350783/2022/0823/984d34f6a6f880c4ce573e1dcfd21f7d.png)
 
 ## 可穿戴应用
 
