@@ -1,3 +1,5 @@
+[<img src="https://www.hankmi.com/favicon.ico" width="60" height="60" align="middle" />](https://www.hankmi.com)
+
 # 抬腕浏览器开放平台
 
 抬腕浏览器搜索结果支持云控，让用户可以准确的访问官方网站而免受钓鱼链接的打扰。  
