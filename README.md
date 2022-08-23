@@ -1,6 +1,8 @@
 ![IMG_Welcome](https://s2.loli.net/2022/08/16/qeQYgEwurJG32fs.png)
-## 博客 · 即时信息
-[前往团队博客（Colion社区）](https://support.qq.com/products/350783/blog-archive)
+* 抬腕听歌、视频、笔记、文件、Omonote已解决在OPPO Watch 3上无法退出的问题
+* 关于抬腕听歌被高版本安卓杀后台的问题分析【[查看详情](support/killed_WearMusic.html)】  
+  
+  [更多内容](support.md)
 
 ***
 
