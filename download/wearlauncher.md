@@ -1,3 +1,5 @@
+[<img src="https://www.hankmi.com/favicon.ico" width="60" height="60" align="middle" />](https://www.hankmi.com)
+
 # 多功能键增强
 丰富小米手表多功能键用途
 
