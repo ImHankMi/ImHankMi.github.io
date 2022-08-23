@@ -1,3 +1,5 @@
+[<img src="https://www.hankmi.com/favicon.ico" width="60" height="60" align="middle" />](https://www.hankmi.com)
+
 # 抬腕视频开放平台
 
 抬腕视频遵循友善、绿色的开放原则，为安卓智能手表生态贡献力量。我们提供可能是最简单的接入方式，Hankode不可阻挡，无需人工审核和确认，接入即用。  
