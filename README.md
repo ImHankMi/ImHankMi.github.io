@@ -1,4 +1,4 @@
-<img src="favicon.ico" width="60" height="60" align="middle" />   
+<img src="favicon.ico" width="60" height="60" align="middle" />
 
 ![IMG_Welcome](https://s2.loli.net/2022/08/16/qeQYgEwurJG32fs.png)
 * 抬腕听歌“白噪音、广播操、收音机”功能下架通知【[查看](support/Offline_White_noise.md)】  
