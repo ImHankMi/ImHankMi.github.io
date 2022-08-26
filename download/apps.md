@@ -2,6 +2,18 @@
 
 ![WearMusic.PNG](https://s2.loli.net/2022/08/17/73iSxMOD2QVWrJF.png)
 
+## 新品上架
+
+[腕上简搜](wearsearch.md)  
+`可穿戴应用`
+`方形屏幕`  
+
+[OmoNote（瓯默笔记）](omonote.md)  
+`可穿戴应用`
+`方形屏幕`
+`兼容WearOS`  
+
+
 ## 可穿戴应用
 
 [抬腕听歌](wearmusic.md)  
@@ -9,7 +21,7 @@
 `兼容WearOS`  
 
 [OmoNote（瓯默笔记）](omonote.md)  
-`方形屏幕`  
+`方形屏幕`
 `兼容WearOS`  
   
 [抬腕笔记](noteplus.md)  
