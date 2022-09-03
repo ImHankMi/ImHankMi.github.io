@@ -17,6 +17,8 @@
 [往期特别活动](live.md)
 * 在语音助手、地图导航、有声节目和更多地方听HankMi声音：  
 [前往“HankMi声音”页面](support/voice.md)
+* 关注HankMi微信公众号：  
+[这就去](support/wechat.md)
 
 ***
 
