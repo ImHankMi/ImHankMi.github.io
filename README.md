@@ -1,7 +1,7 @@
 [<img src="favicon.ico" width="60" height="60" align="middle" />](https://www.hankmi.com)
 
 ![IMG_Welcome](https://s2.loli.net/2022/08/16/qeQYgEwurJG32fs.png)
-* 抬腕听歌服务巨大变动，建议立即了解【[查看](support/Wearmusic_220918.md)】
+* 新版本抬腕听歌取消歌单、云音乐等功能【[查看](support/Wearmusic_220918.md)】
 * 抬腕内测APP停止服务通知【[查看](support/Offline_Wearbeta.md)】
 * 抬腕听歌“白噪音、广播操、收音机”功能下架通知【[查看](support/Offline_White_noise.md)】  
 * [浏览更多内容…](support.md)
