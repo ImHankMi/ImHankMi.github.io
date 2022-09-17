@@ -39,6 +39,9 @@
 [抬腕文件](wearfileexplorer.md)  
 `方形屏幕`
 `兼容WearOS`   
+
+[腕上简搜](wearsearch.md)  
+`方形屏幕`  
   
 [抬腕浏览器](wearbrowser.md)  
 `方形屏幕`  
