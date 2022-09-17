@@ -19,6 +19,7 @@ HankMi音乐全面升级为“抬腕听歌”，努力成为完美的Android智�
 ***
 
 ## 下载地址
+[蓝奏云](https://hankmi.lanzouw.com/b0cguq3xg) `密码:64mr` `酷安最新版没上架的话用网盘下`  
 [酷安网](https://www.coolapk.com/apk/280691) `推荐`
 
 ***
