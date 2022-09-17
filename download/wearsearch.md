@@ -14,7 +14,6 @@ AI翻译更有无广告、无活动推广、优质发音等实用功能，是你
 ***
 
 ## 下载地址
-[网盘下载](https://www.icloud.com.cn/iclouddrive/0eamh9tGlmhk4Q-bzira7kd5A) `酷安没上架时使用`  
 [酷安网](http://www.coolapk.com/apk/299522) `推荐`
 
 ***
