@@ -1,6 +1,6 @@
 [<img src="favicon.ico" width="60" height="60" align="middle" />](https://www.hankmi.com)
 
-![IMG_Welcome](https://s2.loli.net/2022/08/16/qeQYgEwurJG32fs.png)
+![欢迎](https://s2.loli.net/2022/08/16/qeQYgEwurJG32fs.png)
 * 新版本抬腕听歌取消歌单、云音乐等功能【[查看](support/Wearmusic_220918.md)】
 * 抬腕内测APP停止服务通知【[查看](support/Offline_Wearbeta.md)】
 * 抬腕听歌“白噪音、广播操、收音机”功能下架通知【[查看](support/Offline_White_noise.md)】  
@@ -8,7 +8,7 @@
 
 ***
 
-![IMG_Bili](https://s2.loli.net/2022/08/16/pUzghdv95YT2LfQ.png)
+![自媒体频道](https://s2.loli.net/2022/08/16/pUzghdv95YT2LfQ.png)
 * 我们的视频，是不容错过的。数码区、日常区、音乐区都能找到那么一点：  
 [个人主页](https://space.bilibili.com/400656980)  
 * 游戏直播、新品发布、VLog实况直播，我们统一称为特别活动：  
@@ -22,7 +22,7 @@
 
 ***
 
-![IMG_Colion](https://s2.loli.net/2022/08/16/bPsTiScvzYOD7g6.png)
+![抬腕4.0](https://s2.loli.net/2022/08/16/bPsTiScvzYOD7g6.png)
 * 下载APK是玩表的开始，找到你喜欢的抬腕系列应用并使他们保持最新版本：  
 [现在就去挑选](download/apps.md)  
 * 接下来将APK安装到手表，仅需4步，轻松搞定：  
