@@ -1,6 +1,11 @@
 [<img src="favicon.ico" width="60" height="60" align="middle" />](https://www.hankmi.com)
 
-# HankMi支持
+***  
+## HankMi支持 - 此页地图
+* [资讯信息](#资讯信息)
+* [应用常见问题](#应用常见问题)  
+
+***
 
 ## 资讯信息
 * 新版本抬腕听歌取消歌单、云音乐等功能【[查看](support/Wearmusic_220918.md)】  
