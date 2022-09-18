@@ -10,5 +10,5 @@
 * 多功能键增强激活通道关闭【[查看](support/Offline_Launcher.md)】  
 * 抬腕翻译在线服务变更提醒【[查看](support/Offline_Translate.md)】  
 
-## Colion社区
-抬腕系列应用常见问题【[进入]()】
+## 应用常见问题
+* 转到Colion社区【[进入](https://support.qq.com/products/350783/faqs-more)】
