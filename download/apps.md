@@ -1,6 +1,6 @@
 [<img src="https://www.hankmi.com/favicon.ico" width="60" height="60" align="middle" />](https://www.hankmi.com)
 
-![WearMusic.PNG](https://s2.loli.net/2022/08/17/73iSxMOD2QVWrJF.png)
+![抬腕听歌](https://s2.loli.net/2022/08/17/73iSxMOD2QVWrJF.png)
 
 ## 新品上架
 
@@ -63,18 +63,13 @@
 
 ***
 
-![ColionVideo.PNG](https://s2.loli.net/2022/08/17/Ixto8amOE1ufJUY.png)
+![Colion视频](https://s2.loli.net/2022/08/17/Ixto8amOE1ufJUY.png)
 
 ## 手机应用
 
 [Colion视频](mobilemedia.md)  
 `Android 6.0+`  
 
-[Colion社区-原HankMi社区](community.md)  
+[Colion社区-原HankMi社区](https://www.hankmi.com/community)  
 `提供网页版`
 `Android 6.0+`  
-
-***
-
-## PC程序
-~~HankMi随时传~~（已停更）
