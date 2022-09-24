@@ -16,11 +16,12 @@ HankMi音乐全面升级为“抬腕听歌”，努力成为完美的Android智�
 【内嵌封面读取】专辑封面搭配精心准备的高斯模糊，打造与手机不相上下的精美播放器
 
 ***
-⚠️[新版本抬腕听歌取消歌单、云音乐等功能](https://www.hankmi.com/support/Wearmusic_220918)
+## ⚠️注意  
+[新版本抬腕听歌取消歌单、云音乐等功能](https://www.hankmi.com/support/Wearmusic_220918)
 ***
 
 ## 下载地址
-[蓝奏云](https://hankmi.lanzouw.com/b0cguq3xg) `密码:64mr` `酷安最新版没上架的话用网盘下`  
+[蓝奏云](https://hankmi.lanzouw.com/b0cguq3xg) `密码:64mr` `不限速` `无需登录`  
 [酷安网](https://www.coolapk.com/apk/280691) `推荐`
 
 ***
