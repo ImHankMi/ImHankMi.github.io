@@ -16,6 +16,7 @@
 ***
 
 ## 下载地址
+[蓝奏云](https://hankmi.lanzouw.com/b0cgvg2be) `密码:9b73` `不限速` `无需登录`  
 [酷安网](https://www.coolapk.com/apk/290674) `推荐`
 
 ***
