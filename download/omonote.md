@@ -16,7 +16,6 @@
 ***
 
 ## 下载地址
-[蓝奏云](https://hankmi.lanzouw.com/i0t7m09vysqj)  
 [酷安网](https://www.coolapk.com/apk/297843) `推荐`
 
 ***
