@@ -12,6 +12,11 @@
 
 ## 新品上架
 
+[抬腕哔哩](wearbili.md)  
+`可穿戴应用`
+`方形屏幕`
+`兼容WearOS`  
+
 [腕上简搜](wearsearch.md)  
 `可穿戴应用`
 `方形屏幕`  
@@ -39,6 +44,11 @@
 [抬腕视频](wearmedia.md)  
 `方形屏幕`
 `兼容WearOS`   
+
+[抬腕哔哩](wearbili.md)  
+`可穿戴应用`
+`方形屏幕`
+`兼容WearOS`  
   
 [抬腕看图](weargallery.md)  
 `方形屏幕`
