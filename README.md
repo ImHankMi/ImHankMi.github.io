@@ -3,7 +3,7 @@
 ***  
 ## HankMi官方网站 - 此页地图
 公告与支持  
-* [Support支持](#支持)  
+* [Support支持](#Support支持)  
   
 HankMi自媒体  
 * [自媒体](#自媒体)  
