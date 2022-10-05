@@ -2,9 +2,8 @@
 
 ***  
 ## HankMi官方网站 - 此页地图
-抬腕支持  
-* [最近内容](#支持)
-* [所有支持项目](support.md)  
+公告与支持  
+* [Support支持](#支持)  
   
 HankMi自媒体  
 * [自媒体](#自媒体)  
@@ -17,11 +16,11 @@ HankMi自媒体
 ***
 
 ![欢迎](https://s2.loli.net/2022/08/16/qeQYgEwurJG32fs.png)
-## 支持
-* 新版本抬腕听歌取消歌单、云音乐等功能【[查看](support/Wearmusic_220918.md)】
-* 抬腕内测APP停止服务通知【[查看](support/Offline_Wearbeta.md)】
-* 抬腕听歌“白噪音、广播操、收音机”功能下架通知【[查看](support/Offline_White_noise.md)】  
-* [浏览更多支持内容…](support.md)
+## Support支持
+* 停止对 Colion视频 的支持 【[查看](support/Offline_Mobilemedia.md)】  
+* 停止对 抬腕听歌歌单、云音乐 的支持 【[查看](support/Wearmusic_220918.md)】
+* 停止对 抬腕内测 的支持 【[查看](support/Offline_Wearbeta.md)】
+* [所有 Support支持 内容](support.md)
 
 ***
 
