@@ -18,7 +18,7 @@ HankMi自媒体
 ![欢迎](https://s2.loli.net/2022/08/16/qeQYgEwurJG32fs.png)
 ## Support支持
 * 对Colion视频的支持已终止 【[查看](support/Offline_Mobilemedia.md)】  
-* 对抬腕听歌的歌单、云音乐支持已终止 【[查看](support/Wearmusic_220918.md)】
+* 新版本抬腕听歌不再支持歌单、云音乐等功能 【[查看](support/Wearmusic_220918.md)】
 * 对抬腕内测的支持已终止 【[查看](support/Offline_Wearbeta.md)】
 * [所有 Support支持 内容](support.md)
 
