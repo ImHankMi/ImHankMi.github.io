@@ -2,14 +2,17 @@
 
 ***  
 ## HankMi官方网站 - 全站地图
-* 抬腕支持  
-  * [最近内容](https://www.hankmi.com/#支持)
+* Support支持  
+  * [最近内容](https://www.hankmi.com/#support支持)
   * [所有支持项目](https://www,hankmi.com/support)  
     * [资讯信息](https://www.hankmi.com/support#资讯信息)  
     * [应用常见问题](https://www.hankmi.com/support#应用常见问题)  
   
 * HankMi自媒体  
   * [自媒体](https://www.hankmi.com/#自媒体)  
+  
+    
+* [Today at HankMi](https://www.hankmi.com/#today-at-hankmi)  
   
 * 抬腕应用  
   * [抬腕 4.0](https://www.hankmi.com/#抬腕-40)
@@ -27,4 +30,4 @@
   
 ***
   
-更新日期: 2022 年 9 月 18 日
+更新日期: 2022 年 10 月 7 日
