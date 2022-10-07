@@ -3,7 +3,7 @@
 ***  
 ## HankMi官方网站 - 此页地图
 公告与支持  
-* [Support支持](#Support支持)  
+* [Support支持](#支持)  
   
 HankMi自媒体  
 * [自媒体](#自媒体)  
@@ -16,7 +16,7 @@ HankMi自媒体
 ***
 
 ![欢迎](https://s2.loli.net/2022/08/16/qeQYgEwurJG32fs.png)
-## Support支持
+## 支持
 * 对Colion视频的支持已终止 【[查看](support/Offline_Mobilemedia.md)】  
 * 新版本抬腕听歌不再支持歌单、云音乐等功能 【[查看](support/Wearmusic_220918.md)】
 * 对抬腕内测的支持已终止 【[查看](support/Offline_Wearbeta.md)】
@@ -36,6 +36,14 @@ HankMi自媒体
 [前往“HankMi声音”页面](support/voice.md)
 * 关注HankMi微信公众号：  
 [这就去](support/wechat.md)
+
+***
+
+## Today at HankMi
+![抬腕2年，大步向前](http://i2.hdslb.com/bfs/archive/e0bdd82dc279c81f7c343648a79eba27ae0241ea.jpg)
+* 为安卓手表开发了两年的应用，请允许我们介绍这些成果  【[观看视频](https://www.bilibili.com/video/BV1dG41177aa)】  
+* 轻抬腕，发现美好  【[阅读专栏](https://www.bilibili.com/read/cv18077549)】  
+
 
 ***
 
