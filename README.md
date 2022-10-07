@@ -3,10 +3,12 @@
 ***  
 ## HankMi官方网站 - 此页地图
 公告与支持  
-* [Support支持](#支持)  
+* [Support支持](#support支持)  
   
 HankMi自媒体  
 * [自媒体](#自媒体)  
+  
+[Today at HankMi](#today-at-hankmi)  
   
 抬腕应用  
 * [抬腕 4.0](#抬腕-40)
@@ -16,7 +18,7 @@ HankMi自媒体
 ***
 
 ![欢迎](https://s2.loli.net/2022/08/16/qeQYgEwurJG32fs.png)
-## 支持
+## Support支持
 * 对Colion视频的支持已终止 【[查看](support/Offline_Mobilemedia.md)】  
 * 新版本抬腕听歌不再支持歌单、云音乐等功能 【[查看](support/Wearmusic_220918.md)】
 * 对抬腕内测的支持已终止 【[查看](support/Offline_Wearbeta.md)】
