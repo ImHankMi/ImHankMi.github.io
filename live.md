@@ -1,10 +1,16 @@
 [<img src="favicon.ico" width="60" height="60" align="middle" />](https://www.hankmi.com)
 
-![IMG_Live](https://s2.loli.net/2022/08/16/CD1Mewz75l93SnF.png)
-游戏直播、新品发布、VLog实况直播，我们统一称为特别活动。  
-错过了直播？别担心，我们提供高质量的回放：  
+## HankMi·自媒体
+* 我们的视频，是不容错过的。数码区、日常区、音乐区都能找到那么一点：  
+[个人主页](https://space.bilibili.com/400656980)  
+* 游戏直播、新品发布、VLog实况直播，我们统一称为特别活动：  
+[直播间](https://live.bilibili.com/25463078)  
+* 在语音助手、地图导航、有声节目和更多地方听HankMi声音：  
+[前往“HankMi声音”页面](support/voice.md)
+* 关注HankMi微信公众号：  
+[这就去](support/wechat.md)
 
 ***
-
+### 错过了直播？别担心，我们提供高质量的回放：  
 * 220812期：[PVZ 1-1 To 3-5](https://www.bilibili.com/video/BV1pd4y1K7YS/)
 * 220731期：[Asphalt8](https://www.bilibili.com/video/BV19a411Z7DQ)
