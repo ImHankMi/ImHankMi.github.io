@@ -1,4 +1,5 @@
-[<img src="favicon.ico" width="60" height="60" align="middle" />](https://www.hankmi.com)
+<img src="favicon.ico" width="60" height="60" align="middle" />
+
 # HankMi官方网站
 
 ***
@@ -7,7 +8,7 @@
 [![HankMi·自媒体.PNG](https://s2.loli.net/2022/10/12/Kc1h6gHWr7eAi5d.png)](https://www.hankmi.com/live)
 [![Today At HankMi.PNG](https://s2.loli.net/2022/10/12/rkE45bga6CnUWQX.png)](https://www.hankmi.com/today_at_hankmi)
 [![HankMi·抬腕.PNG](https://s2.loli.net/2022/10/12/fwr1Langk2yxcQu.png)](https://www.hankmi.com/download)
-[![Colion社区.PNG](https://s2.loli.net/2022/10/12/Myfbrv9noDd4ipT.png)](https://www.hankmi.com/community.md)
+[![Colion社区.PNG](https://s2.loli.net/2022/10/12/Myfbrv9noDd4ipT.png)](https://www.hankmi.com/community)
 [![抬腕开放平台.PNG](https://s2.loli.net/2022/10/12/ldrZUTIF4gVNspL.png)](https://www.hankmi.com/dev)
 
 ***
