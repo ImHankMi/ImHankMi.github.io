@@ -1,6 +1,7 @@
 <img src="favicon.ico" width="60" height="60" align="middle" />
 
 # HankMi官方网站
+给你的安卓手表加点料
 
 ***
 
@@ -13,5 +14,5 @@
 
 ***
 
-在找其它内容吗？  
+在找其它内容吗  
 [查找授权发布平台](support/to3rd.md)  |  [全站地图](Maps.md)  
