@@ -1,8 +1,8 @@
 <img src="favicon.ico" width="60" height="60" align="middle" />
 
 # HankMi官方网站
-给你的安卓手表加点料  
-在手表上使用超多抬腕系列应用
+给你的安卓手表加点料，  
+在手表上使用超多抬腕系列应用！
 
 ***
 
@@ -15,5 +15,8 @@
 
 ***
 
-常用内容快速链接  
+快速链接  
+* 热门访问  
 [下载抬腕](https://www.hankmi.com/download/apps)  |  [抬腕授权平台](support/to3rd.md)  |  [全站地图](Maps.md)  
+* 抬腕系主打  
+[抬腕听歌](https://www.hankmi.com/download/wearmusic.html)  |  [抬腕浏览器](https://www.hankmi.com/download/wearbrowser.html)  |  [抬腕笔记](https://www.hankmi.com/download/noteplus.html)  |  [抬腕视频](https://www.hankmi.com/download/wearmedia.html)  
