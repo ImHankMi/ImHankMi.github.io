@@ -12,11 +12,11 @@
 
 ***
 
-[![HankMi·自媒体.PNG](https://s2.loli.net/2022/10/12/Kc1h6gHWr7eAi5d.png)](live.md)
-[![Today At HankMi.PNG](https://s2.loli.net/2022/10/12/rkE45bga6CnUWQX.png)](today_at_hankmi.md)
-[![HankMi·抬腕.PNG](https://s2.loli.net/2022/10/12/fwr1Langk2yxcQu.png)](download.md)
+[![HankMi·自媒体.PNG](https://s2.loli.net/2022/10/12/Kc1h6gHWr7eAi5d.png)](hankmi.com/live)
+[![Today At HankMi.PNG](https://s2.loli.net/2022/10/12/rkE45bga6CnUWQX.png)](hankmi.com/today_at_hankmi)
+[![HankMi·抬腕.PNG](https://s2.loli.net/2022/10/12/fwr1Langk2yxcQu.png)](hankmi.com/download)
 [![Colion社区.PNG](https://s2.loli.net/2022/10/12/Myfbrv9noDd4ipT.png)](community.md)
-[![抬腕开放平台.PNG](https://s2.loli.net/2022/10/12/ldrZUTIF4gVNspL.png)](dev.md)
+[![抬腕开放平台.PNG](https://s2.loli.net/2022/10/12/ldrZUTIF4gVNspL.png)](hankmi.com/dev)
 
 ***
 
