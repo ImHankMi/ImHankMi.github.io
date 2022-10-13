@@ -1,22 +1,49 @@
-<img src="favicon.ico" width="60" height="60" align="middle" />
-
-# HankMi官方网站
-给你的安卓手表加点料，  
-在手表上使用超多抬腕系列应用！
+# <img src="favicon.ico" width="60" height="60" align="center" /> HankMi官方网站
 
 ***
 
-[![Spport支持](https://s2.loli.net/2022/10/12/pZVsWb8D1rcPtIY.png)](https://www.hankmi.com/support)
-[![HankMi·自媒体](https://s2.loli.net/2022/10/12/Kc1h6gHWr7eAi5d.png)](https://www.hankmi.com/live)
-[![Today At HankMi](https://s2.loli.net/2022/10/12/rkE45bga6CnUWQX.png)](https://www.hankmi.com/today_at_hankmi)
-[![HankMi·抬腕](https://s2.loli.net/2022/10/12/fwr1Langk2yxcQu.png)](https://www.hankmi.com/download)
-[![Colion社区](https://s2.loli.net/2022/10/12/Myfbrv9noDd4ipT.png)](https://www.hankmi.com/community)
-[![抬腕开放平台](https://s2.loli.net/2022/10/12/ldrZUTIF4gVNspL.png)](https://www.hankmi.com/dev)
+## <div align="center"> 资讯和新闻内容 </div>
+<div align="center"> <a href="https://www.hankmi.com/support">前往 Support支持 →</a> </div>
 
 ***
+
+## <div align="center"> HankMi·自媒体 </div>
+<div align="center"> 直播和视频，样样好 </div>  
+<div align="center"> <a href="https://www.hankmi.com/live">自媒体专区 →</a> </div>
+
+***
+
+## <div align="center"> Today at <img src="favicon.ico" width="35" height="=35" align="center" /> </div>
+<div align="center"> 参与汉克米的线下活动，粉丝福利坊。 </div>
+<div align="center"> 还能在“今日克米”中获取实用的抬腕系列应用课程，帮助你上手新应用、玩好你的智能手表！</dev>
+<div align="center"> <a href="https://www.hankmi.com/today_at_hankmi">获取活动或课程 →</a> </div>
+
+***
+
+## <div align="center"> HankMi·抬腕 </div>
+<div align="center"> 体验数款手表定制应用，包含生活的方方面面 </div>
+<div align="center"> 给你的安卓手表加点料</dev>
+<div align="center"> <a href="https://www.hankmi.com/download">进一步了解 →</a> </div>
+
+***
+
+## <div align="center"> 提意见，到这里 </div>
+<div align="center"> HankMi·官方论坛 </div>
+<div align="center"> <a href="https://www.hankmi.com/community">前往Colion社区 →</a> </div>
+
+***
+
+## <div align="center"> 抬腕开放平台 </div>
+<div align="center"> 免费将你的应用、程序接入抬腕系列应用 </div>
+<div align="center"> 轻松开发强大功能 </dev>
+<div align="center"> 还能与抬腕共享手表活跃用户资源 </dev>
+<div align="center"> <a href="https://www.hankmi.com/dev">hankmi.com/dev →</a> </div>
+
+***
+
+<div align="left">
 
 快速链接  
-* 热门访问  
 [下载抬腕](https://www.hankmi.com/download/apps)  |  [抬腕授权平台](support/to3rd.md)  |  [全站地图](Maps.md)  
-* 抬腕系主打  
-[抬腕听歌](https://www.hankmi.com/download/wearmusic.html)  |  [抬腕浏览器](https://www.hankmi.com/download/wearbrowser.html)  |  [抬腕笔记](https://www.hankmi.com/download/noteplus.html)  |  [抬腕视频](https://www.hankmi.com/download/wearmedia.html)  
+
+</div>
