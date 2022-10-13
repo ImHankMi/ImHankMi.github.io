@@ -1,6 +1,7 @@
-[<img src="https://www.hankmi.com/favicon.ico" width="60" height="60" align="middle" />](https://www.hankmi.com)
 
-# Omonote
+# [<img src="https://www.hankmi.com/favicon.ico" width="60" height="60" align="center" />](https://www.hankmi.com) HankMi官方网站
+
+## Omonote
 瓯默笔记
 
 ***
