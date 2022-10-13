@@ -1,6 +1,7 @@
-[<img src="https://www.hankmi.com/favicon.ico" width="60" height="60" align="middle" />](https://www.hankmi.com)
 
-# 腕上简搜
+# [<img src="https://www.hankmi.com/favicon.ico" width="60" height="60" align="center" />](https://www.hankmi.com) HankMi官方网站
+
+## 腕上简搜
 搜网页、搜百科、搜翻译，样样快人一步
 
 ***
