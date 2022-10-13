@@ -1,6 +1,7 @@
-[<img src="https://www.hankmi.com/favicon.ico" width="60" height="60" align="middle" />](https://www.hankmi.com)
 
-# 对Colion视频的支持已终止
+# [<img src="https://www.hankmi.com/favicon.ico" width="60" height="60" align="center" />](https://www.hankmi.com) HankMi官方网站
+
+## 对Colion视频的支持已终止
 本页面列出了转移至其它抬腕系列应用所需的信息、工具和提示。  
   
 对Colion视频的安全更新和技术支持于 2022 年 10 月 5 日终止。我们明白，放弃可能不容易，但我们随时乐意帮助您转移到其它抬腕系列应用。  
@@ -12,4 +13,4 @@
 如果应用中存在较多个人使用数据，请先将他们妥善保存。我们推荐您将这些内容记录在抬腕笔记、Omonote或是纸上。在确认无误后，前往移动设备“设置>应用和通知>应用信息>多功能键增强>卸载”将应用移除。随后前往手表“设置>个性化>自定义硬件按钮>下方靠右”选择新的快捷功能。
 
 * 体验其它抬腕系列应用  
-最新的其它类型的抬腕应用覆盖了您的手表生活的方方面面，从影音娱乐，到学习生活。前往 “[hankmi.com/download/apps](apps.md)” 获取更多抬腕系列应用。
+最新的其它类型的抬腕应用覆盖了您的手表生活的方方面面，从影音娱乐，到学习生活。前往 “[hankmi.com/download/apps](https://www.hankmi.com/download/apps)” 获取更多抬腕系列应用。
