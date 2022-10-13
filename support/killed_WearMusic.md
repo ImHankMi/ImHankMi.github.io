@@ -1,6 +1,7 @@
-[<img src="https://www.hankmi.com/favicon.ico" width="60" height="60" align="middle" />](https://www.hankmi.com)
 
-# 关于抬腕听歌被高版本安卓杀后台的问题分析
+# [<img src="https://www.hankmi.com/favicon.ico" width="60" height="60" align="center" />](https://www.hankmi.com) HankMi官方网站
+
+## 关于抬腕听歌被高版本安卓杀后台的问题分析
 抬腕听歌在高版本安卓系统上会出现频繁被杀掉进程的问题。经过分析，原有的代码存在缺陷，需要进行技术性功能改进。以下是此立项问题处理进度公示：
 
 * 2022年8月21日  
