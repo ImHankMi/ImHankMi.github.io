@@ -1,7 +1,8 @@
-[<img src="favicon.ico" width="60" height="60" align="middle" />](https://www.hankmi.com)
+# [<img src="favicon.ico" width="60" height="60" align="center" />](https://www.hankmi.com) HankMi官方网站
 
-***  
-## HankMi支持 - 此页地图
+***
+
+## Support支持 - 此页地图
 * [资讯信息](#资讯信息)
 * [应用常见问题](#应用常见问题)  
 
