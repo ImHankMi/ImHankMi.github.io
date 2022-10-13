@@ -7,5 +7,5 @@
 ***
 
 ## 在找其它内容吗
-[下载抬腕系列应用](https://www.hankmi.com/download/apps.md)  
+[下载抬腕系列应用](https://www.hankmi.com/download/apps)  
 [抬腕开放平台](https://www.hankmi.com/dev)
