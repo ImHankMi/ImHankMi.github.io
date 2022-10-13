@@ -1,6 +1,7 @@
-[<img src="https://www.hankmi.com/favicon.ico" width="60" height="60" align="middle" />](https://www.hankmi.com)
 
-# 对抬腕翻译的支持已终止
+# [<img src="https://www.hankmi.com/favicon.ico" width="60" height="60" align="center" />](https://www.hankmi.com) HankMi官方网站
+
+## 对抬腕翻译的支持已终止
 本页面列出了转移至其它抬腕系列应用所需的信息、工具和提示。  
   
 对抬腕翻译的安全更新和技术支持于 2022 年 5 月 10 日终止。我们明白，放弃可能不容易，但我们随时乐意帮助您转移到其它抬腕系列应用。
