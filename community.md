@@ -1,4 +1,4 @@
-[<img src="favicon.ico" width="60" height="60" align="middle" />](https://www.hankmi.com)
+# [<img src="favicon.ico" width="60" height="60" align="center" />](https://www.hankmi.com) HankMi官方网站
 
 # Colion社区
 为了提升用户体验，HankMi社区更名为Colion社区。  
