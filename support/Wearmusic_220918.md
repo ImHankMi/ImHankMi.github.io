@@ -1,6 +1,7 @@
-[<img src="https://www.hankmi.com/favicon.ico" width="60" height="60" align="middle" />](https://www.hankmi.com)
 
-# 新版本抬腕听歌不再支持歌单、云音乐等功能
+# [<img src="https://www.hankmi.com/favicon.ico" width="60" height="60" align="center" />](https://www.hankmi.com) HankMi官方网站
+
+## 新版本抬腕听歌不再支持歌单、云音乐等功能
   
 HankMi向您问好！  
    
