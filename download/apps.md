@@ -2,7 +2,9 @@
 # [<img src="https://www.hankmi.com/favicon.ico" width="60" height="60" align="center" />](https://www.hankmi.com) HankMi官方网站
  
 ## 下载抬腕系列应用
-[新品上架](#新品上架) | [可穿戴应用](#可穿戴应用) | [手机应用](#手机应用)
+* [新品上架](#新品上架)  
+* [可穿戴应用](#可穿戴应用)  
+* [手机应用](#手机应用)  
 
 ***
 
