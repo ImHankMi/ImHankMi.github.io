@@ -24,9 +24,8 @@ if (empty($url) or (strpos($url,'lanzous.com')==false && strpos($url,'lanzoux.co
 $Fun = new xhFun();
 preg_match('/lanzou[a-zA-Z].com\/(.*)/',$url,$id);
 // 下面$mtp或$api接口可能会因地域不同而导致无法访问
-// 我这边是广州的服务器是可以的，服务器能访问就行了，你们自己看着改
-$mtp = 'https://www.lanzous.com/tp/'.$id[1];
-$api = 'https://www.lanzous.com/ajaxm.php';
+$mtp = 'https://www.lanzouw.com/tp/'.$id[1];
+$api = 'https://www.lanzouw.com/ajaxm.php';
 $header = "{$Fun->ua}|Referer: {$mtp}";
 // $context = $Fun->trimAll( $Fun->xhGet($lz,$header) );
 $context = $Fun->xhGet($mtp,$header);
