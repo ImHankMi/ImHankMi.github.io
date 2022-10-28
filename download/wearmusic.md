@@ -24,8 +24,11 @@ HankMi音乐全面升级为“抬腕听歌”，努力成为完美的Android智�
 ***
 
 ## 下载地址
-[蓝奏云](https://hankmi.lanzouw.com/b0cguq3xg) `密码:64mr` `不限速` `无需登录`  
-[酷安网](https://www.coolapk.com/apk/280691) `推荐`
+[酷安网](https://www.coolapk.com/apk/280691) `推荐`  
+[蓝奏云](https://hankmi.lanzouw.com/b0cguq3xg) `密码:64mr`  
+  
+如你的设备不兼容新版本，请  
+[获取兼容版本](#%E8%8E%B7%E5%8F%96%E5%85%BC%E5%AE%B9%E7%89%88%E6%9C%AC)
 
 ***
 
@@ -33,3 +36,18 @@ HankMi音乐全面升级为“抬腕听歌”，努力成为完美的Android智�
 支持ROM：Android6.0+  
 兼容WearOS：是  
 需要屏幕：方/圆
+
+***
+
+## 获取兼容版本
+* V21.7.25  
+可提供的最早版本，在第二代OPPO Watch上可能出现崩溃问题  
+【[下载](https://hankmi.lanzouw.com/iEY5t0eqp7tc)】  
+  
+* V21.8.8  
+Holo风格混搭，此版本新增对于第二代OPPO Watch的支持  
+【[下载](https://hankmi.lanzouw.com/iKLPD0eqp7sb)】  
+  
+* V21.10.15  
+首个使用新播放解码器的版本，调教优化有史以来最差，严重的掉帧和卡  
+【[下载](https://hankmi.lanzouw.com/ia0Ul0eqp7ud)】  
