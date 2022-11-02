@@ -17,7 +17,8 @@
 ***
 
 ## 下载地址
-[酷安网](https://www.coolapk.com/apk/297843) `推荐`
+[酷安网](https://www.coolapk.com/apk/297843) `推荐`  
+[蓝奏云](https://hankmi.lanzouw.com/b0ch0m28h) `密码：gta1`
 
 ***
 
