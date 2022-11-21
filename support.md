@@ -12,5 +12,7 @@
 * 对多功能键增强的支持已终止 【[查看](support/Offline_Launcher.md)】  
 * 对抬腕翻译的在线服务支持已终止 【[查看](support/Offline_Translate.md)】  
 
+***
+
 ### 应用常见问题
-* 转到Colion社区 【[进入](https://support.qq.com/products/350783/faqs-more)】
+* 由Colion社区提供 【[进入](https://support.qq.com/products/350783/faqs-more)】
