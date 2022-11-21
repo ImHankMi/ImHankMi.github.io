@@ -1,5 +1,6 @@
 # <img src="favicon.ico" width="60" height="60" align="center" /> HankMi官方网站
 
+## 欢迎
 ***
 
 * 📰资讯和新闻内容 【[获取Support支持](support.md)】  
