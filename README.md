@@ -1,9 +1,10 @@
 # <img src="favicon.ico" width="60" height="60" align="center" /> HankMi官方网站
 
 ## 欢迎
+我们已将网站分区以方便浏览
 ***
 
-* 📰资讯和新闻内容 【[获取Support支持](support.md)】  
+* 📰资讯和新闻内容 【[获取](support.md)】  
 `抬腕系列应用更新公告、常见问题解答、自媒体运营信息`  
 
 * 🎬HankMi·自媒体 【[进入专区](live.md)】  
