@@ -1,7 +1,7 @@
 
 # [<img src="https://www.hankmi.com/favicon.ico" width="60" height="60" align="center" />](https://www.hankmi.com) HankMi官方网站
 
-## 版权和抬腕授权平台
+## 📃HankMi版权中心
 
 ***
 
@@ -29,5 +29,5 @@
 
 ***
 
-盗版资源举报邮箱  
+### 盗版资源举报邮箱  
 hankmi@outlook.com
