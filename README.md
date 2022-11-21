@@ -1,6 +1,6 @@
 # <img src="favicon.ico" width="60" height="60" align="center" /> HankMi官方网站
 
-## 欢迎
+## 欢迎👋
 我们已将网站分区以方便浏览  
 
 ***
@@ -23,7 +23,8 @@
 * 🧑‍💻抬腕开放平台 【[hankmi.com/dev](dev)】  
 `将你的应用接入抬腕系列应用、轻松开发强大功能、与抬腕共享手表活跃用户资源`  
 
-***
+* 📃HankMi版权中心 【[进入](support/to3rd.md)】  
+`查找抬腕系列授权发布平台、侵权搬运举报`
 
-快速链接  
-[下载抬腕](https://www.hankmi.com/download/apps)  |  [抬腕授权平台](support/to3rd.md)  |  [全站地图](Maps.md)  
+* 🗺️全站地图【[浏览](Maps.md)】  
+`用树状图浏览整个网站`
