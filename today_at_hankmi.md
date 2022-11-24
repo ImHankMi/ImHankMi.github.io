@@ -31,3 +31,15 @@
   
 * 抬腕听歌简洁版 【[下载](https://hankmi.lanzouw.com/iZwiy0ep074b)】  
 `专为小米手表等入门级智能手表定制的低配抬腕听歌，小而美`
+
+***
+
+### 汉克米的小屋🛖
+* QQ群 【[添加](https://qm.qq.com/cgi-bin/qm/qr?k=TZP0BQcCNrkeLv7W3lvNOPaDRr2TUC9H&authKey=D+rNdWJdm2iNe1h3oUqidtXU0/oxFIeDkLi6fhSppsDPxWE9O8Lo49vUE0P+LCB2&noverify=0)】  
+`500人群，先到先得。进群后请保持活跃，防止被清退哦！`  
+
+* 支付宝群 【限时开放】  
+`抬腕周年庆福利通道，每年抬腕生日会显示开启`  
+
+* iMessage群 【[去私信](https://message.bilibili.com/?spm_id_from=333.999.0.0#whisper/mid400656980)】  
+`B站私信立即加入汉克米果粉专享群`
