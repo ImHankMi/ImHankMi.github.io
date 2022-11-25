@@ -12,7 +12,8 @@
 ***
 
 ## 下载地址
-[酷安网](https://www.coolapk.com/apk/295660) `推荐`
+[酷安网](https://www.coolapk.com/apk/295660) `推荐`  
+[蓝奏云（更新比酷安快）](https://hankmi.lanzouw.com/b0ch3v92f) `密码：9x5c`
 
 ***
 
