@@ -12,7 +12,7 @@
 ***
 
 ## 下载地址
-[稳定版内测](https://lanzou.humorously.tk/api/api.php?link=https://hankmi.lanzouw.com/iiZuq0iw785g&&red=1) `内测版`  
+[稳定版公测](https://hankmi.lanzouw.com/iiZuq0iw785g) `内测版`  
 
 ***
 
