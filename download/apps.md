@@ -11,7 +11,7 @@
 Colion视频，选择“S”。
 ~~~
   
-A | [B](#b) | C | [D](#d) | E | [F](#f) | G | H | I | [J](#j) | [K](#k) | [L](#l) | M | [N](#n) | O | P | Q | R | [S](#s) | [T](#t) | U | V | [W](#w) | X | Y | Z 
+A | [B](#b) | C | [D](#d) | E | [F](#f) | G | H | I | [J](#j) | [K](#k) | [L](#l) | M | [N](#n) | O | P | Q | R | [S](#s) | [T](#t) | U | V | [W](#w) | X | [Y](#y) | Z 
 
 ***
 
@@ -84,5 +84,11 @@ A | [B](#b) | C | [D](#d) | E | [F](#f) | G | H | I | [J](#j) | [K](#k) | [L](#l
 ### W
 
 [抬腕文件](wearfileexplorer.md)  
+`方形屏幕`
+`兼容WearOS`   
+  
+### Y
+
+[抬腕应用商店](appstore.md)  
 `方形屏幕`
 `兼容WearOS`   
