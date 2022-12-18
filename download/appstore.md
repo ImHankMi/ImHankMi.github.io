@@ -12,7 +12,7 @@
 ***
 
 ## 下载地址
-[稳定版公测](https://hankmi.lanzouw.com/iiZuq0iw785g) `内测版`  
+[正式版](https://hankmi.lanzouw.com/b0ch743ze) `密码:1000`  
 
 ***
 
