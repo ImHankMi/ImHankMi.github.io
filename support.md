@@ -3,7 +3,7 @@
 
 ***
 ### Support支持
-* 对抬腕哔哩的支持已终止 【[查看](https://www.hankmi.com/download/wearbili)】  
+* 对抬腕哔哩的支持已恢复 【[查看](https://www.hankmi.com/download/wearbili)】  
 * 对Colion视频的支持已终止 【[查看](support/Offline_Mobilemedia.md)】  
 * 新版本抬腕听歌不再支持歌单、云音乐等功能 【[查看](support/Wearmusic_220918.md)】  
 * 对抬腕内测的支持已终止 【[查看](support/Offline_Wearbeta.md)】
