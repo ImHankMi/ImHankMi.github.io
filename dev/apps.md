@@ -3,6 +3,7 @@
 将你开发的应用添加到抬腕开放平台，让用户轻松的在一个平台获取到你的所有正版应用。  
   
 ***
-应用上架前，请先阅读[APP审核规范](https://www.hankmi.com/support/appstoredistribute)，  
   
-一切准备就绪，开始[提交应用](https://f.wps.cn/g/91MrDE5j/)。
+应用上架前，请先阅读《抬腕应用商店手表APP审核规范》，轻点 `下一步` 以继续  
+  
+[下一步 →](https://www.hankmi.com/support/appstoredistribute)
