@@ -9,7 +9,7 @@ Hankmi is Bilibili's We-Media worker, Coolapk and Xiaomi open platform certified
 
 ### Product
 
-* [🎬We-Media](https://www.hankmi.com/en/media)
+* [🎬We-Media](https://www.hankmi.com/en/live)
   > Hankmi from the media business as the main development direction, we have settled in a number of platforms, you can watch our video and live on Bilibili, listen to our audio programs in the Himalayas, read articles on WeChat subscription number.  
   
 * [⌚Apps ](https://www.hankmi.com/en/service_not_available)
