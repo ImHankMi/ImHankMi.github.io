@@ -36,4 +36,4 @@ HankMi是哔哩哔哩数码区UP主、酷安和小米开放平台认证《抬腕
 
 ***
 
-[🌍English(UK)](en.md)
+[🌍English(UK)](https://www.hankmi.com/en)
