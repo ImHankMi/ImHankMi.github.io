@@ -1,4 +1,4 @@
-# <img src="favicon.ico" width="60" height="60" align="center" /> HankMi官方網站  
+# <img src="favicon.ico" width="60" height="60" align="center" /> HankMi 中國香港  
   
 ***
    
