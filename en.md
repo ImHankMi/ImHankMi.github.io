@@ -1,9 +1,9 @@
-# <img src="favicon.ico" width="60" height="60" align="center" /> hankmi.com  
+# <img src="favicon.ico" width="60" height="60" align="center" /> HankMi (UK)  
   
 ***
    
 ### About
-![头图_关于HankMi.PNG](https://s2.loli.net/2023/01/03/HkrEMtvnBVj8OTW.png)
+![头图_关于HankMi.PNG](https://s2.loli.net/2023/01/03/HkrEMtvnBVj8OTW.png)  
 Hankmi is Bilibili's We-Media worker, Coolapk and Xiaomi open platform certified App developer. Hankmi from the media as the core, providing Bilibili video, WeChat subscription number, QQ channel and other multi-channel content, and expand the provision of HankMi Music, HankMi Video and other well-known Android smartwatch applications.  
 
 ***
