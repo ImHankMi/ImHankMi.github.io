@@ -2,8 +2,8 @@
   
 ***
    
-### 关于我们
-![头图_关于HankMi.PNG](https://s2.loli.net/2023/01/03/HkrEMtvnBVj8OTW.png)
+### 您好！
+![头图_关于HankMi](https://s2.loli.net/2023/01/03/HkrEMtvnBVj8OTW.png)  
 HankMi是哔哩哔哩数码区UP主、酷安和小米开放平台认证《抬腕系列应用》开发者。HankMi以自媒体为核心，提供哔哩哔哩视频、微信订阅号、QQ频道等多渠道内容，并扩展提供抬腕听歌、抬腕视频等知名安卓智能手表应用。  
 
 ***
