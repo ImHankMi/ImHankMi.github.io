@@ -1,5 +1,5 @@
 # [<img src="https://www.hankmi.com/favicon.ico" width="60" height="60" align="center" />](https://www.hankmi.com/en) HankMi (UK)
-## 📰Suppoort & News
+## 📰Support & News
 
 ***
 ### News
