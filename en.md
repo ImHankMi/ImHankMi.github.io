@@ -36,5 +36,4 @@ Hankmi is Bilibili's We-Media worker, Coolapk and Xiaomi open platform certified
   > Find Authorized Publishing Platform, reporting irregularities.  
 
 ***
-
-[🌏中文(中国大陆)](https://www.hankmi.com)
+* [🌐Language](https://www.hankmi.com/choose-country-region)
