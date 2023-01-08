@@ -1,4 +1,4 @@
-# [<img src="https://www.hankmi.com/favicon.ico" width="60" height="60" align="center" />](https://www.hankmi.com/hk) HankMi官方網站
+# [<img src="https://www.hankmi.com/favicon.ico" width="60" height="60" align="center" />](https://www.hankmi.com/hk) HankMi (中國香港)
 ## 👥Colion社區
 ### [跳轉 →](https://support.qq.com/products/350783)  
 * 可以從任何Web瀏覽器訪問FAQ部分  
