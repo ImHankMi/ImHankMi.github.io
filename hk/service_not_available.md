@@ -1,4 +1,4 @@
-# [<img src="https://www.hankmi.com/favicon.ico" width="60" height="60" align="center" />](https://www.hankmi.com/hk) HankMi官方網站
+# [<img src="https://www.hankmi.com/favicon.ico" width="60" height="60" align="center" />](https://www.hankmi.com/hk) HankMi (中國香港)
   
 ***
    
