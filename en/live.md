@@ -8,7 +8,7 @@
 `Our video is not to be missed`  
 
 * Event 【[Skip](https://live.bilibili.com/25463078)】  
-`Game Live, New Product Launch, VedicLog Live`  
+`Game Live, New Product Launch, VideoLog Live`  
 
 * Voice 【[Skip](https://www.hankmi.com/en/service_not_available)】  
 `Listen to HankMi sounds with voice assistants, map navigation, sound programs, and more`  
