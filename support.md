@@ -3,6 +3,10 @@
 
 ***
 ### Support支持
+
+* 对多功能键增强的支持已恢复 【[查看](https://www.hankmi.com/support/news_2301091309)】  
+`2023/01/09`  
+
 * 抬腕应用商店手表APP审核规范 【[查看](https://www.hankmi.com/support/appstoredistribute)】  
 `2023/01/01`  
   
