@@ -16,49 +16,49 @@ A | [B](#b) | C | [D](#d) | E | [F](#f) | G | H | I | [J](#j) | [K](#k) | [L](#l
 ***
 
 ### B  
-[抬腕笔记](noteplus.md)  
+[抬腕笔记](https://www.hankmi.com/download/noteplus)  
 `自适应屏幕`
 `兼容WearOS` 
 
-[OmoNote（瓯默笔记）](omonote.md)  
+[OmoNote（瓯默笔记）](https://www.hankmi.com/download/omonote)  
 `方形屏幕`
 `兼容WearOS`  
 
-[抬腕哔哩](wearbili.md)  
+[抬腕哔哩](https://www.hankmi.com/download/wearbili)  
 `可穿戴应用`
 `方形屏幕`
 `兼容WearOS`  
 
 ### D
 
-[多功能键增强](wearlauncher.md)  
+[多功能键增强](https://www.hankmi.com/download/wearlauncher)  
 `小米手表` 
 
 ### F
 
-[抬腕翻译](weartranslate.md)  
+[抬腕翻译](https://www.hankmi.com/download/weartranslate)  
 `方形屏幕`
 `兼容WearOS`  
 
 ### J
 
-[腕上简搜](wearsearch.md)  
+[腕上简搜](https://www.hankmi.com/download/wearsearch)  
 `方形屏幕`  
 
 ### K
 
-[抬腕看图](weargallery.md)  
+[抬腕看图](https://www.hankmi.com/download/weargallery)  
 `方形屏幕`
 `兼容WearOS`  
 
 ### L
 
-[抬腕浏览器](wearbrowser.md)  
+[抬腕浏览器](https://www.hankmi.com/download/wearbrowser)  
 `方形屏幕`  
 
 ### N
 
-[抬腕内测](wearbeta.md)  
+[抬腕内测](https://www.hankmi.com/download/wearbeta)  
 `方形屏幕`
 `兼容WearOS` 
 
@@ -68,27 +68,31 @@ A | [B](#b) | C | [D](#d) | E | [F](#f) | G | H | I | [J](#j) | [K](#k) | [L](#l
 `提供网页版`
 `Android 6.0+`  
 
-[抬腕视频](wearmedia.md)  
+[抬腕视频](https://www.hankmi.com/download/wearmedia)  
 `方形屏幕`
 `兼容WearOS`   
 
-[Colion视频](mobilemedia.md)  
+[Colion视频](https://www.hankmi.com/download/mobilemedia)  
 `Android 6.0+`  
 
 ### T
 
-[抬腕听歌](wearmusic.md)  
-`自适应屏幕`
+[抬腕听歌](https://www.hankmi.com/download/wearmusic)  
+`方形屏幕`
+`兼容WearOS`  
+
+[抬腕听歌简洁版](https://www.hankmi.com/download/wearmusic_lite)  
+`方形屏幕`
 `兼容WearOS`  
 
 ### W
 
-[抬腕文件](wearfileexplorer.md)  
+[抬腕文件](https://www.hankmi.com/download/wearfileexplorer)  
 `方形屏幕`
 `兼容WearOS`   
   
 ### Y
 
-[抬腕应用商店](appstore.md)  
+[抬腕应用商店](https://www.hankmi.com/download/appstore)  
 `方形屏幕`
 `兼容WearOS`   
