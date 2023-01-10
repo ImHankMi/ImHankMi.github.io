@@ -1,7 +1,6 @@
-{"Total":"125",
-"公告":"【1月9日】你正在使用HankMi Api联运版本，部分地区网络可能存在使用问题。如您在使用过程中出现异常，请访问：hankmi.com/support
- 【1月1日】我们更新了《抬腕应用商店手表APP审核规范》，请各位手表应用开发者留意：https://www.hankmi.com/support/appstoredistribute",
-"列表公告":"请刷新列表",
+{"Total":"0",
+"公告":"暂无公告",
+"列表公告":"内测已结束，请切换稳定版本。正式版将在不久后上线。",
 "版本号":"7",
 
 "api":"https://lanzou.humorously.tk/api/api.php?link=%a&&red=1",
