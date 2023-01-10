@@ -4,6 +4,9 @@
 ***
 ### Support支持
 
+* 抬腕隐私政策 【[查看](https://www.hankmi.com/support/privacy)】  
+`2023/01/10`  
+
 * 对多功能键增强的支持已恢复 【[查看](https://www.hankmi.com/support/news_2301091309)】  
 `2023/01/09`  
 
